@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/page-vass/static/css/main.57954f23.css",
+    "main.js": "/page-vass/static/js/main.b7c058ec.js",
+    "static/js/787.12bfb0e3.chunk.js": "/page-vass/static/js/787.12bfb0e3.chunk.js",
+    "static/media/ladders.jpg": "/page-vass/static/media/ladders.6f21d5745e7bba83f6b6.jpg",
+    "static/media/instagram.png": "/page-vass/static/media/instagram.736cb34a34733a1eb327.png",
+    "static/media/glass.png": "/page-vass/static/media/glass.bcf1ea4a05b8e7d2f48c.png",
+    "static/media/gorjeo.png": "/page-vass/static/media/gorjeo.07b288e27fd40c6b8b1a.png",
+    "static/media/Athletic.TTF": "/page-vass/static/media/Athletic.e682522d63f1e1553d35.TTF",
+    "static/media/logo.svg": "/page-vass/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/page-vass/index.html",
+    "main.57954f23.css.map": "/page-vass/static/css/main.57954f23.css.map",
+    "main.b7c058ec.js.map": "/page-vass/static/js/main.b7c058ec.js.map",
+    "787.12bfb0e3.chunk.js.map": "/page-vass/static/js/787.12bfb0e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57954f23.css",
+    "static/js/main.b7c058ec.js"
+  ]
+}
